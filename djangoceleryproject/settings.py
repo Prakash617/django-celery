@@ -128,6 +128,7 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+# n remove
 
 #celery settings
 
@@ -149,6 +150,6 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'superbang617@gmail.com'
-EMAIL_HOST_PASSWORD = 'nslmncibjooqatit'
+EMAIL_HOST_PASSWORD = 'nnslmncibjooqatit'
 EMAIL_PORT = 587
 DEFAULT_FROM_EMAIL = 'Celery <superbang617@gmail.com>' #Celery default sender or nothing to do with it
